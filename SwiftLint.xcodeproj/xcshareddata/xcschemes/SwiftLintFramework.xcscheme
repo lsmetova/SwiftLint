@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0D1216C19E87B05005E4BAA"
+               BlueprintIdentifier = "SwiftLint::SwiftLintFramework"
                BuildableName = "SwiftLintFramework.framework"
                BlueprintName = "SwiftLintFramework"
                ReferencedContainer = "container:SwiftLint.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0D1217619E87B05005E4BAA"
+               BlueprintIdentifier = "SwiftLint::SwiftLintFrameworkTests"
                BuildableName = "SwiftLintFrameworkTests.xctest"
                BlueprintName = "SwiftLintFrameworkTests"
                ReferencedContainer = "container:SwiftLint.xcodeproj">
@@ -47,7 +47,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0D1217619E87B05005E4BAA"
+               BlueprintIdentifier = "SwiftLint::SwiftLintFrameworkTests"
                BuildableName = "SwiftLintFrameworkTests.xctest"
                BlueprintName = "SwiftLintFrameworkTests"
                ReferencedContainer = "container:SwiftLint.xcodeproj">
@@ -57,7 +57,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D0D1216C19E87B05005E4BAA"
+            BlueprintIdentifier = "SwiftLint::SwiftLintFramework"
             BuildableName = "SwiftLintFramework.framework"
             BlueprintName = "SwiftLintFramework"
             ReferencedContainer = "container:SwiftLint.xcodeproj">
@@ -80,7 +80,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D0D1216C19E87B05005E4BAA"
+            BlueprintIdentifier = "SwiftLint::SwiftLintFramework"
             BuildableName = "SwiftLintFramework.framework"
             BlueprintName = "SwiftLintFramework"
             ReferencedContainer = "container:SwiftLint.xcodeproj">
@@ -98,7 +98,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D0D1216C19E87B05005E4BAA"
+            BlueprintIdentifier = "SwiftLint::SwiftLintFramework"
             BuildableName = "SwiftLintFramework.framework"
             BlueprintName = "SwiftLintFramework"
             ReferencedContainer = "container:SwiftLint.xcodeproj">
